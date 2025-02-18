@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content {
+    display: flex;
+
+}
+.box1 h1{
+    background-image: linear-gradient(pink, white, lightblue);
+    color:  pink, white, lightblue;
+}
+.box2 h1{
+    background-image: linear-gradient(pink, white, lightblue);
+}
+.box3 h1{
+    background-image: linear-gradient(pink, white, lightblue);
+}
+.box4 h1{
+    background-image: linear-gradient(pink, white, lightblue);
+}
